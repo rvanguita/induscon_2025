@@ -3,8 +3,9 @@
 This repository contains the data used in the scientific article **"Multicriteria-Based Expansion Planning in Distribution Systems"**, authored by **Rene V. Anguita Junior, Carlos A. Castro, and Marina Lavorato**, submitted to the **INDUSCON 2025 Conference**.
 
 ## Repository Contents
-- **README.md** – Documentation describing the repository and data structure.
 - **27-Node System Data.xlsx** – File containing all data used for the simulations and analyses presented in the article.
+- **README.md** – Documentation describing the repository and data structure.
+- **LICENSE** – License information for the dataset and repository usage.
 
 ## `.xlsx` File Description
 The **27-Node System Data.xlsx** file is organized into the following sheets, each representing a specific dataset of the power distribution system studied in the work:
